@@ -1,6 +1,10 @@
 {
     "name": "eduardomrb/slim-middleware-crossorigin",
     "description": "Slim middleware to allow cross domain requests",
+    "type": "library",
+    "keywords": ["slim", "middleware", "cross domain origin"],
+    "license": "MIT",
+    "homepage": "http://github.com/eduardomrb/slim-middleware-crossorigin",
     "authors": [
         {
             "name": "Eduardo Borges",
@@ -11,6 +15,7 @@
     "minimum-stability": "dev",
 
     "require": {
+        "php": ">=5.3.0",
         "slim/slim": "2.*"
     },
 
@@ -19,6 +24,6 @@
     },
 
     "autoload": {
-        "psr-0": {"": "src/"}
+        "psr-0": {"EduardoMRB": "src/"}
     }
 }
