@@ -16,7 +16,7 @@
 
     "require": {
         "php": ">=5.3.0",
-        "slim/slim": "2.*"
+        "slim/slim": "dev-master"
     },
 
     "require-dev": {
