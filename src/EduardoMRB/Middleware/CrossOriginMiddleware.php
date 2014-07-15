@@ -1,5 +1,5 @@
 <?php
-namespace Trinix\BoletoFacil\Middleware;
+namespace EduardoMRB\Middleware;
 
 use Slim\Middleware;
 

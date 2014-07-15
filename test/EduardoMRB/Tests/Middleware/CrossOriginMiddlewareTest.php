@@ -1,8 +1,8 @@
 <?php
-namespace Trinix\BoletoFacil\Tests\Middleware;
+namespace EduardoMRB\Tests\Middleware;
 
 use Slim\Slim;
-use Trinix\BoletoFacil\Middleware\CrossOriginMiddleware;
+use EduardoMRB\Middleware\CrossOriginMiddleware;
 
 class FakeApp extends Slim
 {
