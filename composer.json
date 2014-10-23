@@ -27,7 +27,7 @@
       "psr-4": {"Slim\\Middleware\\": "src"}
     },
 
-    "autoload-dev" {
+    "autoload-dev": {
       "psr-4": {"Slim\\Middleware\\Test\\": "test"}
     }
 }
