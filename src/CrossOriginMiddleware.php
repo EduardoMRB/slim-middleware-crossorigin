@@ -1,7 +1,5 @@
 <?php
-namespace EduardoMRB\Middleware;
-
-use Slim\Middleware;
+namespace Slim\Middleware;
 
 class CrossOriginMiddleware extends Middleware
 {
