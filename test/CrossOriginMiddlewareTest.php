@@ -1,8 +1,8 @@
 <?php
-namespace Slim\Middleware\Tests;
+namespace Slim\Middleware\CrossOrigin\Tests;
 
 use Slim\Slim;
-use Slim\Middleware\CrossOriginMiddleware;
+use Slim\Middleware\CrossOrigin\CrossOriginMiddleware;
 
 class FakeApp extends Slim
 {

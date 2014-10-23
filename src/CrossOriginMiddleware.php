@@ -1,5 +1,7 @@
 <?php
-namespace Slim\Middleware;
+namespace Slim\Middleware\CrossOrigin;
+
+use Slim\Middleware;
 
 class CrossOriginMiddleware extends Middleware
 {

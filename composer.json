@@ -24,10 +24,10 @@
     },
 
     "autoload": {
-      "psr-4": {"Slim\\Middleware\\": "src"}
+      "psr-4": {"Slim\\Middleware\\CrossOrigin\\": "src"}
     },
 
     "autoload-dev": {
-      "psr-4": {"Slim\\Middleware\\Test\\": "test"}
+      "psr-4": {"Slim\\Middleware\\CrossOrigin\\Test\\": "test"}
     }
 }
